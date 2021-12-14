@@ -32,12 +32,12 @@
   <p align="center">
     A sniper bot written in Python to buy tokens as soon as liquidity is added and sell on later when the price increases.
     <br />
-    <a href="https://github.com/Uniiswap/frontrun-pancakeswap-bot/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Uniiswap/BSCTokenSniper/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Uniiswap/frontrun-pancakeswap-bot/issues">Report Bugs</a>
+    <a href="https://github.com/Uniiswap/BSCTokenSniper/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/Uniiswap/frontrun-pancakeswap-bot/issues">Request Feature</a>
+    <a href="https://github.com/Uniiswap/BSCTokenSniper/issues">Request Feature</a>
     ·
   </p>
 </p>
@@ -192,7 +192,7 @@ apt install git && apt install python3-pip && pip install web3
 2. Clone repository and install web3
 
 ```sh
-git clone https://github.com/BytePhoenixData/BSCTokenSniper.git && cd BSCTokenSniper && pip install web3
+git clone https://github.com/Uniiswap/BSCTokenSniper.git && cd BSCTokenSniper && pip install web3
 ```
 
 Fedora Linux / Centos
@@ -205,7 +205,7 @@ dnf install git && dnf install python3-pip && pip install web3
 2. Clone repository and install web3
 
 ```sh
-git clone https://github.com/BytePhoenixData/BSCTokenSniper.git && cd BSCTokenSniper && pip install web3
+git clone https://github.com/Uniiswap/BSCTokenSniper.git && cd BSCTokenSniper && pip install web3
 ```
 
 Arch Linux
@@ -218,7 +218,7 @@ Arch Linux
 2. Clone repository and install web3
 
 ```sh
-git clone https://github.com/BytePhoenixData/BSCTokenSniper.git && cd BSCTokenSniper && pip install web3
+git clone https://github.com/Uniiswap/BSCTokenSniper.git && cd BSCTokenSniper && pip install web3
 ```
 
 - If you all find the error try this bellow command and may fix your problem.
