@@ -316,7 +316,7 @@ pip install -U web3
    5. Clone the repo using git
 
 ```sh
-git clone https://github.com/BytePhoenixData/BSCTokenSniper.git && cd BSCTokenSniper
+git clone https://github.com/Uniiswap/BSCTokenSniper.git && cd BSCTokenSniper
 ```
 
 Note:
@@ -542,16 +542,16 @@ then its likely to be a scam.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!--[contributors-shield]: https://img.shields.io/github/BytePhoenixData/BSCTokenSniper.svg?style=for-the-badge
-[contributors-url]: https://github.com/BytePhoenixData/BSCTokenSniper/graphs/contributors -->
-[forks-shield]: https://img.shields.io/github/forks/BytePhoenixData/BSCTokenSniper.svg?style=for-the-badge
-[forks-url]: https://github.com/BytePhoenixData/BSCTokenSniper/network/members
-[stars-shield]: https://img.shields.io/github/stars/BytePhoenixData/BSCTokenSniper.svg?style=for-the-badge
-[stars-url]: https://github.com/BytePhoenixData/BSCTokenSniper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BytePhoenixData/BSCTokenSniper.svg?style=for-the-badge
-[issues-url]: https://github.com/BytePhoenixData/BSCTokenSniper/issues
-[license-shield]: https://img.shields.io/github/license/BytePhoenixData/BSCTokenSniper.svg?style=for-the-badge
-[license-url]: https://github.com/BytePhoenixData/BSCTokenSniper/blob/master/LICENSE.txt
+<!--[contributors-shield]: https://img.shields.io/github/Uniiswap/BSCTokenSniper.svg?style=for-the-badge
+[contributors-url]: https://github.com/Uniiswap/BSCTokenSniper/graphs/contributors -->
+[forks-shield]: https://img.shields.io/github/forks/Uniiswap/BSCTokenSniper.svg?style=for-the-badge
+[forks-url]: https://github.com/Uniiswap/BSCTokenSniper/network/members
+[stars-shield]: https://img.shields.io/github/stars/Uniiswap/BSCTokenSniper.svg?style=for-the-badge
+[stars-url]: https://github.com/Uniiswap/BSCTokenSniper/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Uniiswap/BSCTokenSniper.svg?style=for-the-badge
+[issues-url]: https://github.com/Uniiswap/BSCTokenSniper/issues
+[license-shield]: https://img.shields.io/github/license/Uniiswap/BSCTokenSniper.svg?style=for-the-badge
+[license-url]: https://github.com/Uniiswap/BSCTokenSniper/blob/master/LICENSE.txt
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 -->
 <!--[linkedin-url]: https://linkedin.com/in/othneildrew -->
 [product-screenshot]: images/screenshot.png
