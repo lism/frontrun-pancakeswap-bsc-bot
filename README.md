@@ -1,4 +1,4 @@
-# front-run-pancakeswap-bot
+# front-run-pancakeswap-bsc-bot
 The front run bot for Pancakeswap (BSC)
 
 Pancakeswap frontrun bot that purchases the specified token when liquidity is added.
